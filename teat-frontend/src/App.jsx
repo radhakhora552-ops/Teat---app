@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link, useNavigate, Navigate } from "react-router-dom";
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://teat-app-backend.onrender.com/api"
 const createNotification = async ({ title, message, role }) => {
   try {
     await fetch(`${API_URL}/notifications`, {
