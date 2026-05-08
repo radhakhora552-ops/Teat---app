@@ -1,0 +1,641 @@
+{
+  "users": [
+    {
+      "id": "1777495499720",
+      "fullName": "Rahul Singh",
+      "mobile": "9876543210",
+      "email": "rahul@test.com",
+      "password": "$2b$10$moYdILvNNLQHBTjRkHaghuXIEbS8Vzit.OSdGyzlE2hjYeAt8CA9C",
+      "role": "customer",
+      "status": "active",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-29T20:44:59.720Z"
+    },
+    {
+      "id": "1777495863401",
+      "fullName": "Raj",
+      "mobile": "9876543210",
+      "email": "rahul1@test.com",
+      "password": "$2b$10$V2HKQ5M22vAP6jN88wntpONSouDwxgZ9QSrubzsdmp/cnVlJ2.cPO",
+      "role": "delivery",
+      "status": "pending",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-29T20:51:03.401Z"
+    },
+    {
+      "id": "1777496006026",
+      "fullName": "ASSS",
+      "mobile": "9876543210",
+      "email": "rahul12@test.com",
+      "password": "$2b$10$qucz2cdqWDkjlCNtESfAIOdB8Sk/ybAKeTEi005UfAI1HHSepRFPy",
+      "role": "restaurant",
+      "status": "pending",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-29T20:53:26.026Z"
+    },
+    {
+      "id": "1777498305391",
+      "fullName": "Rahul khee",
+      "mobile": "9876543210",
+      "email": "rahul123@test.com",
+      "password": "$2b$10$xOhM5kKrRg5Gm7Ij0sakTOzcM8lJ7HZcKnUQVvs3BHv5cib6TmNpO",
+      "role": "restaurant",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-29T21:31:45.391Z"
+    },
+    {
+      "id": "1777498413443",
+      "fullName": "tree tree",
+      "mobile": "9876543210",
+      "email": "rahul11@test.com",
+      "password": "$2b$10$d59ZdXegxZN3xGlb0u6aJOpIpH3lDaW278ifjrhQRv9/KRDm9sCpm",
+      "role": "delivery",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-29T21:33:33.443Z"
+    },
+    {
+      "id": "1777566375235",
+      "fullName": "Rahul Sharma",
+      "mobile": "9876543210",
+      "email": "rahul55@test.com",
+      "password": "$2b$10$LPAPNUTMDvJbomD/msIQnOsvp8XzDWMojWa/HeQjdK7crCfThnicq",
+      "role": "restaurant",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-30T16:26:15.236Z"
+    },
+    {
+      "id": "1777566640669",
+      "fullName": "Rahul Sharma",
+      "mobile": "9876543210",
+      "email": "rahul66@test.com",
+      "password": "$2b$10$BuJRMaqHIXL3Vo48OS75puC5qroJP8AVK6YCdAbGgH0J7lEfOjJJW",
+      "role": "delivery",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-04-30T16:30:40.669Z"
+    },
+    {
+      "id": "1777831556003",
+      "fullName": "Rahul Chadda",
+      "mobile": "9876543210",
+      "email": "rahulchh@teat.com",
+      "password": "$2b$10$yfP8.n4Tei9Woojc6jcgVuR327Yqtj9/xASqh5UHw/S5i9ds./qoW",
+      "role": "customer",
+      "status": "active",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-03T18:05:56.004Z"
+    },
+    {
+      "id": "1777831704695",
+      "fullName": "Rahul Chadda",
+      "mobile": "9876543210",
+      "email": "rahul100@teat.com",
+      "password": "$2b$10$fRF8BcLBGzbTDswxHZiAc.pfAX5ypzF11VHQ40hzKJ9FXULkAXdJG",
+      "role": "restaurant",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-03T18:08:24.695Z"
+    },
+    {
+      "id": "1777831777224",
+      "fullName": "Rahul Chadda",
+      "mobile": "9876543210",
+      "email": "rahul200@teat.com",
+      "password": "$2b$10$iCoOiEq2XP9swTt2KXvb1Ol4TXHOHwjfOPxsq7XurxXizR6W1IiFG",
+      "role": "delivery",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-03T18:09:37.224Z"
+    },
+    {
+      "id": "1778177030098",
+      "fullName": "Rahul ",
+      "mobile": "9876543210",
+      "email": "rahul111@teat.com",
+      "password": "$2b$10$NANPyH5BsdoI5zpz43V09esMBEnpbxLdWxZrGouaGPkx/MKUFbYhy",
+      "role": "customer",
+      "status": "active",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-07T18:03:50.098Z"
+    },
+    {
+      "id": "1778177707774",
+      "fullName": "Rahul",
+      "mobile": "9876543210",
+      "email": "rahul222@teat.com",
+      "password": "$2b$10$4ZQVTXhKZczyPheRxf/diOYMA3p1VB2oYjoUS1q4pC0U8uh/k9bnu",
+      "role": "delivery",
+      "status": "pending",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-07T18:15:07.775Z"
+    },
+    {
+      "id": "1778177945230",
+      "fullName": "Rahul",
+      "mobile": "9876543210",
+      "email": "rahul333@teat.com",
+      "password": "$2b$10$TMrFoHFkj9L0CCgu8MTKo.lfzBGgNt9sDkksYmEyYY.1N2dzVkbnq",
+      "role": "restaurant",
+      "status": "approved",
+      "subscription": null,
+      "addresses": [],
+      "createdAt": "2026-05-07T18:19:05.231Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1777566507723",
+      "name": "Cold Tea",
+      "price": 25,
+      "category": "snacks",
+      "createdAt": "2026-04-30T16:28:27.723Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1778278490679",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 45,
+      "deliveryFee": 20,
+      "paymentMode": "Cash on Delivery",
+      "paymentInfo": null,
+      "address": "nisina,17-c, jyp, od | GPS: 20.4452, 85.919",
+      "location": null,
+      "status": "Cancelled",
+      "deliveryStatus": "Cancelled",
+      "deliveryOtp": "2488",
+      "deliveryOtpVerified": false,
+      "createdAt": "2026-05-08T22:14:50.679Z",
+      "updatedAt": "2026-05-08T22:15:03.965Z"
+    },
+    {
+      "id": "1778276913320",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 2
+        }
+      ],
+      "totalAmount": 70,
+      "deliveryFee": 20,
+      "paymentMode": "Cash on Delivery",
+      "paymentInfo": null,
+      "address": "nisina,17-c, jyp, od | GPS: 20.4452, 85.919",
+      "location": {
+        "latitude": 20.4452,
+        "longitude": 85.919
+      },
+      "status": "Accepted",
+      "deliveryStatus": "Picked Up",
+      "deliveryOtp": "1996",
+      "deliveryOtpVerified": false,
+      "createdAt": "2026-05-08T21:48:33.320Z",
+      "updatedAt": "2026-05-08T21:53:29.345Z"
+    },
+    {
+      "id": "1777832785939",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 45,
+      "deliveryFee": 20,
+      "paymentMode": "Cash on Delivery",
+      "address": "nisina,17-c, jyp, od",
+      "status": "Accepted",
+      "deliveryStatus": "Delivered",
+      "createdAt": "2026-05-03T18:26:25.939Z",
+      "updatedAt": "2026-05-07T18:23:51.418Z"
+    },
+    {
+      "id": "1777831610868",
+      "items": [
+        {
+          "id": 2,
+          "name": "Ginger Tea",
+          "price": 25,
+          "category": "snacks",
+          "qty": 1
+        },
+        {
+          "id": 4,
+          "name": "Poha",
+          "price": 35,
+          "category": "breakfast",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 80,
+      "deliveryFee": 20,
+      "paymentMode": "Cash on Delivery",
+      "address": "nisina,17-c, jyp, od",
+      "status": "Ready for Pickup",
+      "deliveryStatus": "Delivered",
+      "createdAt": "2026-05-03T18:06:50.869Z",
+      "updatedAt": "2026-05-03T18:12:33.779Z"
+    },
+    {
+      "id": "1777582864649",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 45,
+      "deliveryFee": 20,
+      "paymentMode": "UPI",
+      "address": "nisina,17-c, jyp, od",
+      "status": "Ready for Pickup",
+      "deliveryStatus": "Delivered",
+      "createdAt": "2026-04-30T21:01:04.649Z",
+      "updatedAt": "2026-05-03T18:12:35.868Z"
+    },
+    {
+      "id": "1777573920381",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 45,
+      "deliveryFee": 20,
+      "paymentMode": "UPI",
+      "address": "nisina,17-c, jyp, od",
+      "status": "Ready for Pickup",
+      "deliveryStatus": "Delivered",
+      "createdAt": "2026-04-30T18:32:00.381Z",
+      "updatedAt": "2026-05-03T18:12:51.419Z"
+    },
+    {
+      "id": "1777569934286",
+      "items": [
+        {
+          "id": "1777566507723",
+          "name": "Cold Tea",
+          "price": 25,
+          "category": "snacks",
+          "createdAt": "2026-04-30T16:28:27.723Z",
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "name": "Ginger Tea",
+          "price": 25,
+          "category": "snacks",
+          "qty": 1
+        }
+      ],
+      "totalAmount": 70,
+      "deliveryFee": 20,
+      "paymentMode": "UPI",
+      "address": "nisina,17-c, jyp, od",
+      "status": "Ready for Pickup",
+      "deliveryStatus": "Rejected",
+      "createdAt": "2026-04-30T17:25:34.287Z",
+      "updatedAt": "2026-05-03T18:12:45.424Z"
+    }
+  ],
+  "applications": [],
+  "notifications": [
+    {
+      "id": "1778278503979",
+      "title": "Order Cancelled",
+      "message": "Order #1778278490679 has been cancelled by customer",
+      "role": "restaurant",
+      "read": false,
+      "createdAt": "2026-05-08T22:15:03.979Z"
+    },
+    {
+      "id": "1778278490693",
+      "title": "New Order Placed",
+      "message": "New order #1778278490679 received",
+      "role": "restaurant",
+      "read": false,
+      "createdAt": "2026-05-08T22:14:50.693Z"
+    },
+    {
+      "id": "1778277209434",
+      "title": "Order Picked Up",
+      "message": "Your order #1778276913320 has been picked up",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-08T21:53:29.434Z"
+    },
+    {
+      "id": "1778277202304",
+      "title": "Delivery Accepted",
+      "message": "Delivery partner accepted order #1778276913320",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-08T21:53:22.304Z"
+    },
+    {
+      "id": "1778277190540",
+      "title": "Order Accepted",
+      "message": "Your order #1778276913320 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-08T21:53:10.540Z"
+    },
+    {
+      "id": "1778276913334",
+      "title": "New Order Placed",
+      "message": "New order #1778276913320 received",
+      "role": "restaurant",
+      "read": false,
+      "createdAt": "2026-05-08T21:48:33.335Z"
+    },
+    {
+      "id": "1778178231428",
+      "title": "Order Accepted",
+      "message": "Your order #1777832785939 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-07T18:23:51.428Z"
+    },
+    {
+      "id": "1778178047155",
+      "title": "Partner Approved",
+      "message": "Rahul approved as restaurant",
+      "role": "admin",
+      "read": false,
+      "createdAt": "2026-05-07T18:20:47.155Z"
+    },
+    {
+      "id": "1777833172370",
+      "title": "Order Delivered",
+      "message": "Your order #1777832785939 has been delivered",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:32:52.370Z"
+    },
+    {
+      "id": "1777833166434",
+      "title": "Order Picked Up",
+      "message": "Your order #1777832785939 has been picked up",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:32:46.434Z"
+    },
+    {
+      "id": "1777833093412",
+      "title": "Order Ready",
+      "message": "Order #1777832785939 is ready for pickup",
+      "role": "delivery",
+      "read": false,
+      "createdAt": "2026-05-03T18:31:33.412Z"
+    },
+    {
+      "id": "1777833091179",
+      "title": "Order Accepted",
+      "message": "Your order #1777832785939 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:31:31.179Z"
+    },
+    {
+      "id": "1777833085203",
+      "title": "Order Accepted",
+      "message": "Your order #1777832785939 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:31:25.203Z"
+    },
+    {
+      "id": "1777833079298",
+      "title": "Order Ready",
+      "message": "Order #1777832785939 is ready for pickup",
+      "role": "delivery",
+      "read": false,
+      "createdAt": "2026-05-03T18:31:19.298Z"
+    },
+    {
+      "id": "1777833057492",
+      "title": "Order Ready",
+      "message": "Order #1777832785939 is ready for pickup",
+      "role": "delivery",
+      "read": false,
+      "createdAt": "2026-05-03T18:30:57.492Z"
+    },
+    {
+      "id": "1777833045421",
+      "title": "Delivery Accepted",
+      "message": "Delivery partner accepted order #1777832785939",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:30:45.421Z"
+    },
+    {
+      "id": "1777833034339",
+      "title": "Order Ready",
+      "message": "Order #1777832785939 is ready for pickup",
+      "role": "delivery",
+      "read": false,
+      "createdAt": "2026-05-03T18:30:34.339Z"
+    },
+    {
+      "id": "1777833027251",
+      "title": "Order Accepted",
+      "message": "Your order #1777832785939 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:30:27.252Z"
+    },
+    {
+      "id": "1777832785954",
+      "title": "New Order Placed",
+      "message": "New order #1777832785939 received",
+      "role": "restaurant",
+      "read": true,
+      "createdAt": "2026-05-03T18:26:25.954Z"
+    },
+    {
+      "id": "1777831971429",
+      "title": "Order Delivered",
+      "message": "Your order #1777573920381 has been delivered",
+      "role": "customer",
+      "read": true,
+      "createdAt": "2026-05-03T18:12:51.429Z"
+    },
+    {
+      "id": "1777831969120",
+      "title": "Order Picked Up",
+      "message": "Your order #1777573920381 has been picked up",
+      "role": "customer",
+      "read": true,
+      "createdAt": "2026-05-03T18:12:49.120Z"
+    },
+    {
+      "id": "1777831962298",
+      "title": "Delivery Accepted",
+      "message": "Delivery partner accepted order #1777573920381",
+      "role": "customer",
+      "read": true,
+      "createdAt": "2026-05-03T18:12:42.298Z"
+    },
+    {
+      "id": "1777831955876",
+      "title": "Order Delivered",
+      "message": "Your order #1777582864649 has been delivered",
+      "role": "customer",
+      "read": true,
+      "createdAt": "2026-05-03T18:12:35.876Z"
+    },
+    {
+      "id": "1777831953795",
+      "title": "Order Delivered",
+      "message": "Your order #1777831610868 has been delivered",
+      "role": "customer",
+      "read": true,
+      "createdAt": "2026-05-03T18:12:33.795Z"
+    },
+    {
+      "id": "1777831951284",
+      "title": "Order Picked Up",
+      "message": "Your order #1777582864649 has been picked up",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:12:31.284Z"
+    },
+    {
+      "id": "1777831949186",
+      "title": "Order Picked Up",
+      "message": "Your order #1777831610868 has been picked up",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:12:29.186Z"
+    },
+    {
+      "id": "1777831944681",
+      "title": "Delivery Accepted",
+      "message": "Delivery partner accepted order #1777582864649",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:12:24.681Z"
+    },
+    {
+      "id": "1777831939668",
+      "title": "Delivery Accepted",
+      "message": "Delivery partner accepted order #1777831610868",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:12:19.668Z"
+    },
+    {
+      "id": "1777831895879",
+      "title": "Order Ready",
+      "message": "Order #1777569934286 is ready for pickup",
+      "role": "delivery",
+      "read": true,
+      "createdAt": "2026-05-03T18:11:35.879Z"
+    },
+    {
+      "id": "1777831893146",
+      "title": "Order Accepted",
+      "message": "Your order #1777569934286 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:11:33.146Z"
+    },
+    {
+      "id": "1777831889573",
+      "title": "Order Ready",
+      "message": "Order #1777573920381 is ready for pickup",
+      "role": "delivery",
+      "read": true,
+      "createdAt": "2026-05-03T18:11:29.573Z"
+    },
+    {
+      "id": "1777831886904",
+      "title": "Order Accepted",
+      "message": "Your order #1777573920381 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:11:26.904Z"
+    },
+    {
+      "id": "1777831879602",
+      "title": "Order Ready",
+      "message": "Order #1777582864649 is ready for pickup",
+      "role": "delivery",
+      "read": true,
+      "createdAt": "2026-05-03T18:11:19.602Z"
+    },
+    {
+      "id": "1777831876528",
+      "title": "Order Accepted",
+      "message": "Your order #1777582864649 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:11:16.528Z"
+    },
+    {
+      "id": "1777831873236",
+      "title": "Order Ready",
+      "message": "Order #1777831610868 is ready for pickup",
+      "role": "delivery",
+      "read": true,
+      "createdAt": "2026-05-03T18:11:13.236Z"
+    },
+    {
+      "id": "1777831869436",
+      "title": "Order Accepted",
+      "message": "Your order #1777831610868 has been accepted by restaurant",
+      "role": "customer",
+      "read": false,
+      "createdAt": "2026-05-03T18:11:09.436Z"
+    },
+    {
+      "id": "1777831610881",
+      "title": "New Order Placed",
+      "message": "New order #1777831610868 received",
+      "role": "restaurant",
+      "read": true,
+      "createdAt": "2026-05-03T18:06:50.881Z"
+    }
+  ]
+}
