@@ -473,3 +473,99 @@ button:disabled:hover {
   background: #fee2e2;
   color: #b91c1c;
 }
+/* Mobile Responsive Upgrade */
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .dashboard {
+    padding: 16px 12px;
+  }
+
+  .dashboard-header {
+    padding: 20px 16px;
+    border-radius: 20px;
+    align-items: stretch;
+  }
+
+  .dashboard-header h1 {
+    font-size: 26px;
+    line-height: 1.2;
+  }
+
+  .dashboard-header p {
+    font-size: 14px;
+  }
+
+  .header-right {
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 12px;
+  }
+
+  .dashboard-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .dashboard-actions button,
+  .dashboard-actions a,
+  .dashboard-actions a button {
+    width: 100%;
+  }
+
+  .dashboard-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .dashboard-card {
+    width: 100%;
+    min-height: auto;
+    padding: 20px;
+  }
+
+  .form-container,
+  .summary-box,
+  .order-list,
+  .notifications-box {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .order-card {
+    padding: 18px;
+  }
+
+  .order-card button {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .bell-dropdown {
+    right: 0;
+    width: 300px;
+    max-width: 90vw;
+  }
+
+  .tracking-box {
+    grid-template-columns: 1fr;
+  }
+
+  input,
+  select,
+  button {
+    font-size: 16px;
+  }
+
+  .hero h1 {
+    font-size: 34px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+}
